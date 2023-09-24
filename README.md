@@ -1,10 +1,8 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1>Project Docker Todo List</h1>
+<p>Trata-se de um projeto avaliativo desenvolvido no módulo de BackEnd do curso de Desenvolvimento Web da Trybe. O projeto envolveu o uso de Nodejs e Docker. Destacam-se como competências desenvolvidas: </p>
+<ol>
+  <li>Conteinerização de aplicações;</li>
+  <li>Criar uma conexão entre elas;</li>
+  <li>Orquestrar seu funcionamento;</li>
+</ol>
+<p>Este projeto envolveu a conteneirização de uma aplicação full-stack. Foram desenvolvidos os arquivos de configuração para cada frente específica: Front-end, Back-end e para um aplicativo de teste que valida se as aplicações estão se comunicando.</p>
